@@ -1,7 +1,7 @@
 <h2>Project Name</h2>
 There are 2 SpringBoot microservices:
 <ul type="square">
-<li><strong>MainService</strong> has SpringSecurity and acces to <strong>UserService</strong></li>
+<li><strong>MainService</strong> has SpringSecurity and access to <strong>UserService</strong></li>
 <li><strong>UserService</strong> is simple CRUD REST service with access to H2 database</li>
 </ul>
 
