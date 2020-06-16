@@ -1,4 +1,3 @@
-<h2>Project Name</h2>
 There are 2 SpringBoot microservices:
 <ul type="square">
 <li><strong>MainService</strong> has SpringSecurity and access to <strong>UserService</strong></li>
